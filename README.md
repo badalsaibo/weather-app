@@ -1,8 +1,21 @@
-# Simple Weather App
+# Weather App
 
-## Description
-Just as the title says, a simple weather app.
+## Live Demo 🚀
+https://weather-app-21.herokuapp.com
 
-## Tools
+![](./src/img/weather-app.png)
+
+## Description 📝
+Just as the title says, a simple weather app. The project was bootstrapped with create-react-app and was prototyped on Figma.
+
+## Tools 🛠
 * React
-* DarkSkyApi
+* Express
+
+## APIs 📦
+* [DarkSky](https://darksky.net/)
+* [IpInfo](https://ipinfo.io/)
+
+## Things I Learned
+* Using async / await to get info.
+* Express behind proxies. 
