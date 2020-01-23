@@ -18,4 +18,6 @@ Just as the title says, a simple weather app. The project was bootstrapped with 
 
 ## Things I Learned
 * Using async / await to get info.
+* Proxying API calls.
+* Handling CORS with backend.
 * Express behind proxies. 
